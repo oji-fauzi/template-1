@@ -1,0 +1,34 @@
+.navbar{
+    background-color: #33658a;
+}
+.navbar{
+    background-color: #1d3557;
+}
+.jumbotron{
+    padding-top: 4rem;
+    background-image: url(../img/project1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+section{
+    padding: 30px;
+    padding-top: 4rem;
+}
+.service{
+    background-color: aqua;
+}
+.card{
+    height: 450px;
+}
+.product .row .col{
+    text-align: center;
+} 
+.contact{
+    background-color: aquamarine;
+}
+.copyright{
+    background-color:#3d5a80;
+    height: 20;
+    text-decoration: ivory ;
+}
